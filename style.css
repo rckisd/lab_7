@@ -139,7 +139,7 @@ ul li:nth-child(odd)::before {
 }
 
 ul li:nth-child(even)::before {
-    content: "⚡ ";
+    content: "🏎️ ";
     color: var(--secondary-color);
 }
 
